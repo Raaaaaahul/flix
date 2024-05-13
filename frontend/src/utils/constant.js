@@ -1,4 +1,4 @@
-export const API_END_POINT = "https://flix-omega.vercel.app";
+export const API_END_POINT = "https://flix-omega.vercel.app/api/user";
 export const options = {
   method: "GET",
   headers: {
