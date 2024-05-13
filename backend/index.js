@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(cookieParser());
 const corsOptions = {
-  origin: "https://flix-omega.vercel.app",
+  origin: "https://flix-zh3w.vercel.app",
   methods: ["POST", "GET"],
   credentials: true,
 };
